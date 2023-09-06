@@ -3,3 +3,5 @@
 # LogCode: https://osp4diss.vlsm.org/ETC/logCodes.txt
 
 ZCZC W00 20 L03 GitHub and git related, including commit, push, pull
+ZCZC W00 30 L05 Studying for quiz Week 00
+ZCZC W01 100 L02 in classroom studying Operating System Concepts Slides (virtual machines)
