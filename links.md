@@ -7,4 +7,4 @@ permalink: LINKS/
 * [Linux Command Cheat Sheet](https://www.guru99.com/linux-commands-cheat-sheet.html) --- A cheat sheet for commands in linux terminal.
 * [LinuxQuestion.org](https://www.linuxquestions.org/questions/) --- A friendly Linux community to ask questions.
 * [Types of Cyber Attacks | 10 Real World Cyber Attacks | Cyber Security Tutorial | Simplilearn](https://www.youtube.com/watch?v=9VNHhxRTbSI) --- An introduction to types of attack and the mechanism of it.
-* [Shell Scripting Tutorial | Shell Scripting Crash Course | Linux Certification Training | Edureka](https://www.youtube.com/watch?v=GtovwKDemnI) --- A brief tutorial on how to do shell scripting.
+* [Shell Scripting Tutorial | Shell Scripting Crash Course | Linux Certification Training | Edureka](https://www.youtube.com/watch?v=GtovwKDemnI) --- Brief tutorial on how to do shell scripting.
