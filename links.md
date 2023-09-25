@@ -10,3 +10,4 @@ permalink: LINKS/
 * [Shell Scripting Tutorial | Shell Scripting Crash Course | Linux Certification Training | Edureka](https://www.youtube.com/watch?v=GtovwKDemnI) --- Brief tutorial on how to do shell scripting.
 * [Learn C](https://www.learn-c.org) --- An interactive online tutorial for learning C language.
 * [An introduction to Linux filesystems](https://opensource.com/life/16/10/introduction-linux-filesystems) --- An article that explains about the concepts of Linux filesystems.
+* [Makefiles Make Your Life Easier](https://www.youtube.com/watch?v=yWLkyN_Satk) --- A tutorial on using Makefile to compile C program.
