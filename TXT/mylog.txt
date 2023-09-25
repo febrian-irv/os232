@@ -12,3 +12,8 @@ ZCZC W02 5 L26 Generating GnuPG key pair
 ZCZC W02 10 L22 script download for week 2 assignment
 ZCZC W02 10 L06 browsing for passphrase problem(solved)
 ZCZC W02 30 L12 Assignment #02
+ZCZC W03 100 L02 CLASSROOM/ZOOM studying Filesytems concepts in linux
+ZCZC W03 50 L05 Studying for quiz
+ZCZC W03 120 L13 Doing assignment #03
+ZCZC W03 30 L06 GSGS on makefile, filesystems, and c programming
+ZCZC W03 10 L03 GitHub and git related, including commit, push, pull
