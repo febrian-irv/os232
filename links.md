@@ -11,3 +11,4 @@ permalink: LINKS/
 * [Learn C](https://www.learn-c.org) --- An interactive online tutorial for learning C language.
 * [An introduction to Linux filesystems](https://opensource.com/life/16/10/introduction-linux-filesystems) --- An article that explains about the concepts of Linux filesystems.
 * [Makefiles Make Your Life Easier](https://www.youtube.com/watch?v=yWLkyN_Satk) --- A tutorial on using Makefile to compile C program.
+* [How to compress the whole directory using xz and tar in Linux](https://www.cyberciti.biz/faq/compress-the-whole-directory-using-xz-and-tar/) --- A guide on tarball.
