@@ -17,3 +17,7 @@ ZCZC W03 50 L05 Studying for quiz
 ZCZC W03 120 L13 Doing assignment #03
 ZCZC W03 30 L06 GSGS on makefile, filesystems, and c programming
 ZCZC W03 10 L03 GitHub and git related, including commit, push, pull
+ZCZC W04 160 L14 Doing assignment #03
+ZCZC W04 30 L06 GSGS on scp and tarball
+ZCZC W04 100 L02 CLASSROOM/ZOOM s
+ZCZC W04 10 L03 GitHub and git related, including commit, push, pull
