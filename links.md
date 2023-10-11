@@ -12,3 +12,5 @@ permalink: LINKS/
 * [An introduction to Linux filesystems](https://opensource.com/life/16/10/introduction-linux-filesystems) --- An article that explains about the concepts of Linux filesystems.
 * [Makefiles Make Your Life Easier](https://www.youtube.com/watch?v=yWLkyN_Satk) --- A tutorial on using Makefile to compile C program.
 * [How to compress the whole directory using xz and tar in Linux](https://www.cyberciti.biz/faq/compress-the-whole-directory-using-xz-and-tar/) --- A guide on tarball.
+* [C Format specifiers](https://www.youtube.com/watch?v=iLZOL-hmr7M) --- A guide on how to format a type of data to be displayed
+* [Encrypting and decrypting documents (GnuPG)](https://www.gnupg.org/gph/en/manual/x110.html) --- A guide on encrypting and decrypting using GnPG

@@ -21,3 +21,10 @@ ZCZC W04 160 L14 Doing assignment #03
 ZCZC W04 30 L06 GSGS on scp and tarball
 ZCZC W04 100 L02 CLASSROOM/ZOOM s
 ZCZC W04 10 L03 GitHub and git related, including commit, push, pull
+ZCZC W05 100 L02 CLASSROOM/ZOOM studying Memory
+ZCZC W05 50 L25 C-language including Make.
+ZCZC W05 120 L15 Assignment #05
+ZCZC W05 20 L06 GSGS on c formatting
+ZCZC W05 30 L40 TXT/ related in general.
+ZCZC W05 10 L03 GitHub and git related, including commit, push, pull
+
