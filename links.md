@@ -14,3 +14,4 @@ permalink: LINKS/
 * [How to compress the whole directory using xz and tar in Linux](https://www.cyberciti.biz/faq/compress-the-whole-directory-using-xz-and-tar/) --- A guide on tarball.
 * [C Format specifiers](https://www.youtube.com/watch?v=iLZOL-hmr7M) --- A guide on how to format a type of data to be displayed
 * [Encrypting and decrypting documents (GnuPG)](https://www.gnupg.org/gph/en/manual/x110.html) --- A guide on encrypting and decrypting using GnPG
+* [fork() in C](https://www.geeksforgeeks.org/fork-system-call/) --- An introduction on fork system call for creating new process in Linux
