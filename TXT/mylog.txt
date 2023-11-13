@@ -31,4 +31,8 @@ ZCZC W06 100 L02 CLASSROOM/ZOOM
 ZCZC W06 30 L06 GSGS on fork
 ZCZC W06 15 L62 Backup Virtual Debian Guest
 ZCZC W06 10 L08 OS Chat related (WA, LIME, Telegram, Signal) with Friend.
-
+ZCZC W07 50 L05 Studying for quiz
+ZCZC W07 30 L06 GSGS on deadlock
+ZCZC W07 180 L17 doing assignment week 7
+ZCZC W07 20 L22 Linux CLI stuff
+ZCZC W07 15 L03 git related stuff

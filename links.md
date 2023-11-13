@@ -15,3 +15,4 @@ permalink: LINKS/
 * [C Format specifiers](https://www.youtube.com/watch?v=iLZOL-hmr7M) --- A guide on how to format a type of data to be displayed
 * [Encrypting and decrypting documents (GnuPG)](https://www.gnupg.org/gph/en/manual/x110.html) --- A guide on encrypting and decrypting using GnPG
 * [fork() in C](https://www.geeksforgeeks.org/fork-system-call/) --- An introduction on fork system call for creating new process in Linux
+* [Deadlock in Operating Systemi](https://www.scaler.com/topics/operating-system/deadlock-in-os/#:~:text=A%20deadlock%20in%20OS%20is,and%20wait%20and%20circular%20set.) --- Brief explanation of deadlock
