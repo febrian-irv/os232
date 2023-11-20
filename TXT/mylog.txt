@@ -36,3 +36,9 @@ ZCZC W07 30 L06 GSGS on deadlock
 ZCZC W07 180 L17 doing assignment week 7
 ZCZC W07 20 L22 Linux CLI stuff
 ZCZC W07 15 L03 git related stuff
+ZCZC W08 100 L02 CLASSROOM/ZOOM
+ZCZC W08 60 L06 GSGS on lfs
+ZCZC W08 50 L05 Studying for quiz
+ZCZC W08 10 L03 GitHub and git related, including commit, push, pull
+ZCZC W08 180 L18 Assignment #08
+ZCZC W08 20 L22 Linux CLI stuff
