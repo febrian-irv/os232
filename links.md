@@ -17,4 +17,5 @@ permalink: LINKS/
 * [fork() in C](https://www.geeksforgeeks.org/fork-system-call/) --- An introduction on fork system call for creating new process in Linux
 * [Deadlock in Operating Systemi](https://www.scaler.com/topics/operating-system/deadlock-in-os/#:~:text=A%20deadlock%20in%20OS%20is,and%20wait%20and%20circular%20set.) --- Brief explanation of deadlock
 * [Linux From Scratch Tutorial](https://www.slideshare.net/alvindzz/tutorial-membangun-linux-from-scratch-dari-awal) --- A guide on how to build Linux From Scratch in Indonesian language
-* [How to Write a Bash Script: A Simple Bash Scripting Tutorial](](https://www.datacamp.com/tutorial/how-to-write-bash-script-tutorial)https://www.datacamp.com/tutorial/how-to-write-bash-script-tutorial) --- A simple bash script tutorial.
+* [How to Write a Bash Script: A Simple Bash Scripting Tutorial]((https://www.datacamp.com/tutorial/how-to-write-bash-script-tutorial)https://www.datacamp.com/tutorial/how-to-write-bash-script-tutorial) --- A simple bash script tutorial.
+* [Linux From Scratch Forum](https://www.linuxquestions.org/questions/linux-from-scratch-13/) --- A community to ask about LFS

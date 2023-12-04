@@ -46,4 +46,7 @@ ZCZC W09 20 L02 kelas asinkronus
 ZCZC W09 50 L05 Studying for quiz
 ZCZC W09 10 L03 git related stuff
 ZCZC W09 100 L22 Linux CLI stuff
-ZCZC W08 30 L06 GSGS on lfs
+ZCZC W09 30 L06 GSGS on lfs
+ZCZC W10 60 L06 GSGS on lfs
+ZCZC W10 10 L03 git related stuff
+ZCZC W10 50 L05 Studying for quiz
